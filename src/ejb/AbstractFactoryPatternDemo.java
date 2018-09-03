@@ -33,16 +33,12 @@ public class AbstractFactoryPatternDemo {
 	      //调用 Red 的 fill 方法
 	      color1.fill();
 	 
-	      //获取颜色为 Green 的对象
 	      Color color2 = colorFactory.getColor("Green");
 	 
-	      //调用 Green 的 fill 方法
 	      color2.fill();
 	 
-	      //获取颜色为 Blue 的对象
 	      Color color3 = colorFactory.getColor("BLUE");
-	 
-	      //调用 Blue 的 fill 方法
+	
 	      color3.fill();
 	   }
 }
