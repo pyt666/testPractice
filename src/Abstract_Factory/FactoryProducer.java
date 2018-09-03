@@ -1,4 +1,4 @@
-package ejb;
+package Abstract_Factory;
 
 public class FactoryProducer {
 	 public static AbstractFactory getFactory(String choice){

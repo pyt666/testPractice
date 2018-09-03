@@ -1,4 +1,4 @@
-package ejb;
+package Abstract_Factory;
 
 public class ShapeFactory extends AbstractFactory {
 

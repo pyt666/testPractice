@@ -1,4 +1,4 @@
-package pojo;
+package Factory;
 
 public class Square implements Shape {
 

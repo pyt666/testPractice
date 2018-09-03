@@ -1,4 +1,4 @@
-package pojo;
+package Factory;
 
 public class ShapeFactory {
 	//使用getShape方法获取形状类型的对象

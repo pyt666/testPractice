@@ -1,4 +1,4 @@
-package pojo;
+package Abstract_Factory;
 
 public class Rectangle implements Shape {
 

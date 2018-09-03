@@ -1,4 +1,4 @@
-package ejb;
+package Abstract_Factory;
 
 public class AbstractFactoryPatternDemo {
 	public static void main(String[] args) {

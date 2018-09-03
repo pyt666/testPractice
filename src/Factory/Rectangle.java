@@ -1,4 +1,4 @@
-package ejb;
+package Factory;
 
 public class Rectangle implements Shape {
 

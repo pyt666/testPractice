@@ -1,4 +1,4 @@
-package ejb;
+package Abstract_Factory;
 
 public class Blue implements Color {
 

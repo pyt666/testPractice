@@ -1,7 +1,7 @@
 package test.eg;
 
-import pojo.Shape;
-import pojo.ShapeFactory;
+import Factory.Shape;
+import Factory.ShapeFactory;
 
 public class FactoryPatternDemo {
 

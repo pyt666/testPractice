@@ -1,4 +1,4 @@
-package ejb;
+package Factory;
 
 public class Circle implements Shape {
 
